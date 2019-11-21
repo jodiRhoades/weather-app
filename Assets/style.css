@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+  }
+  
+h1 {
+    background-color: #484848;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#search {
+    background-color: #747573;
+    float: left;
+    height: 1500px;
+    color:white;
+    Width: 35%;    
+    padding: 25px
+}
+
+form {
+    border-radius: 0 5px 5px 0;
+    border:none;
+    font-size: 18px;
+}
+
+#btnsearch {
+    color: white;
+    border-radius: 0 5px 5px 0;
+    background-color: rgb(61, 61, 230);
+    border: none;
+    font-size: 21px;
+
+}
+
+.results {
+    float: right;
+}
