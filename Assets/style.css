@@ -1,9 +1,12 @@
 * {
     box-sizing: border-box;
   }
-  
+html, body{
+    height: 100vh;
+}
 h1 {
     background-color: #484848;
+    height: 7%;
     color: white;
     font-family: sans-serif;
     text-align: center;
@@ -12,16 +15,14 @@ h1 {
 #search {
     background-color: #747573;
     float: left;
-    height: 1500px;
-    color:white;
-    Width: 35%;    
-    padding: 25px
+    color:white;    
 }
 
-form {
-    border-radius: 0 5px 5px 0;
-    border:none;
-    font-size: 18px;
+.col-md-4 {
+    padding: 25px 0 0 70px;
+}
+.container-fluid{
+    height: 93%;
 }
 
 #btnsearch {
@@ -30,7 +31,6 @@ form {
     background-color: rgb(61, 61, 230);
     border: none;
     font-size: 21px;
-
 }
 
 .results {

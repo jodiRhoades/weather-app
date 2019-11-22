@@ -34,4 +34,4 @@ The city you search will pull the following data.
 
   * Humidity
 
-  <!-- ![weather dashboard](./Assets/) -->
+  <!-- ![weather dashboard](Assets\screenShotWetherApp.jpg) -->
