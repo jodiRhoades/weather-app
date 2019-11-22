@@ -19,19 +19,8 @@ The city you search will pull the following data.
   * Humidity
 
   * Wind speed
+  
+  
+  ![weather dashboard](Assets\screenShotWetherApp.jpg)
 
-  * UV index
-
-  A search history is available so that you can access your past searches. Clicking on the city name should perform a new search that returns current and future conditions for that city. 
-
-* Included is a 5-Day Forecast below the current weather conditions. The 5-Day Forecast should display the following:
-
-  * Date
-
-  * Icon image (visual representation of weather conditions)
-
-  * Temperature
-
-  * Humidity
-
-  <!-- ![weather dashboard](Assets\screenShotWetherApp.jpg) -->
+  
